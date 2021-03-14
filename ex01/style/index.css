@@ -1,4 +1,20 @@
-title{
-    color:brown;
-    text-align:center;
+h1 {
+color:red;
+text-align: center;
 }
+
+h2 {
+    color:rgb(27, 27, 219);
+    text-align: left;
+    }
+.gallery{
+    float: left;
+    width: 25%;
+    margin: 5px;
+    
+}
+
+    img{
+        width: 100%;
+        height: auto;
+    }
